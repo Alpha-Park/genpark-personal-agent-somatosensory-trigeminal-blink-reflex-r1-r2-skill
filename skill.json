@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-somatosensory-trigeminal-blink-reflex-r1-r2-skill",
+  "version": "1.0.0",
+  "description": "Calculates Trigemino-Facial Blink Reflex early pontine (R1) and late medullary (R2/R2c) latencies to assess cranial nerves V and VII and brainstem integrity.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "neurophysiology",
+    "blink-reflex",
+    "brainstem",
+    "trigeminal",
+    "facial-nerve",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
